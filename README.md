@@ -12,7 +12,7 @@ Here are some of my top projects — click through for full reports, code, and r
 
 ### 🛠️ Predictive Maintenance (Capstone @ Sandia Labs)
 
-[**Structural Fatigue Prediction with Vibration Signals**](https://github.com/dianeegret/2025-Structural-Fatigue-Aircraft-Engines2025-Structural-Fatigue-Aircraft-Engines)
+[**Structural Fatigue Prediction with Vibration Signals**](https://github.com/dianeegret/2025-Structural-Fatigue-Aircraft-Engines)
 
 * Built models to predict **Remaining Useful Life (RUL)** of engines using NASA C-MAPSS data.
 * Tested Random Forests, GRUs, and **Attention-LSTMs** → best model improved interpretability & accuracy.
