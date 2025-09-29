@@ -16,21 +16,9 @@ Here are some of my top projects — click through for full reports, code, and r
 
 * Built models to predict **Remaining Useful Life (RUL)** of engines using NASA C-MAPSS data.
 * Tested Random Forests, GRUs, and **Attention-LSTMs** → best model improved interpretability & accuracy.
-* Sponsor: **Sandia National Laboratories**.
+* Sponsor: **Sandia National Laboratories**, Albuquerque, NM.
 
 ![Python](https://img.shields.io/badge/Python-ML-blue) ![Deep Learning](https://img.shields.io/badge/DeepLearning-LSTM-red)
-
----
-
-### 🌊 Conservation Analytics
-
-[**Right Whale Spatial Distribution**](https://github.com/dianeegret/2022-Whale-Habitat-Distribution)
-
-* Combined whale sighting data, shipping routes, and bathymetry.
-* Built R maps showing overlap of whales and ship traffic — highlighting conservation risks.
-* Demonstrates **geospatial data cleaning + layered visualization**.
-
-![R](https://img.shields.io/badge/R-Geospatial-green) ![DataViz](https://img.shields.io/badge/DataViz-ggplot2-blue)
 
 ---
 
@@ -60,6 +48,19 @@ Here are some of my top projects — click through for full reports, code, and r
 
 ---
 
+### 🌊 Conservation Analytics
+
+[**Right Whale Spatial Distribution**](https://github.com/dianeegret/2022-Whale-Habitat-Distribution)
+
+* Combined whale sighting data, shipping routes, and bathymetry.
+* Built R maps showing overlap of whales and ship traffic — highlighting conservation risks.
+* Demonstrates **geospatial data cleaning + layered visualization**.
+* Internship completed at the **University of Miami**’s Rosenstiel School of Marine, Atmospheric and Earth Science.
+
+![R](https://img.shields.io/badge/R-Geospatial-green) ![DataViz](https://img.shields.io/badge/DataViz-ggplot2-blue)
+
+---
+
 ### 👩‍💼 HR & Workforce Analytics
 
 [**Employee Performance Prediction**](https://github.com/dianeegret/2024-Employee-Performance)
@@ -74,10 +75,10 @@ Here are some of my top projects — click through for full reports, code, and r
 
 ## 🛠️ Skills & Tools
 
-* **Programming:** Python (Pandas, scikit-learn, TensorFlow/Keras), R (caret, ggplot2).
+* **Programming:** Python (Pandas, scikit-learn), R (caret, ggplot2).
 * **Data Science:** EDA, machine learning, deep learning, predictive modeling, time series.
 * **Visualization:** Tableau, Matplotlib, ggplot2.
-* **Other:** SQL, Git/GitHub, Optuna, PCA, clustering.
+* **Other:** SQL, Git/GitHub, Optuna, PCA, clustering, optimization.
 
 ---
 
