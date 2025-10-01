@@ -85,7 +85,7 @@ Here are some of my top projects — click through for full reports, code, and r
 ## 📬 Let’s Connect
 
 * [LinkedIn](https://www.linkedin.com/in/diane-egret-19961b230/)
-* Email: *diane.egret@gmail.com*
+* Email: *degret3@gatech.edu*
 
 ---
 
