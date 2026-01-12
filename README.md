@@ -30,7 +30,7 @@ Here are some of my top projects — click through for full reports, code, and r
 * Built an interactive **Tableau dashboard** for exploring pollution hotspots.
 * Compared usability vs EPA EnviroMapper — users found **Tox-E-Mapper faster & easier**.
 
-  [🔗 Tableau Dashboard](https://public.tableau.com/app/profile/diane.egret/viz/ClusteredMap_17440624844360/Dashboard1) | [🎥 Demo Video](https://www.youtube.com/watch?v=nSbnjFp_rTA)
+[🔗 Tableau Dashboard](https://public.tableau.com/app/profile/diane.egret/viz/ClusteredMap_17440624844360/Dashboard1)
 
 ![Python](https://img.shields.io/badge/Python-DataPrep-blue) ![Tableau](https://img.shields.io/badge/Tableau-InteractiveViz-orange)
 
