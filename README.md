@@ -22,7 +22,7 @@ Here are some of my top projects — click through for full reports, code, and r
 
 ---
 
-### 🧪 Environmental Data Mapping
+### 🗺️ Environmental Data Mapping
 
 [**Tox-E-Mapper**](https://github.com/dianeegret/2025-Tox-E-Mapper)
 
